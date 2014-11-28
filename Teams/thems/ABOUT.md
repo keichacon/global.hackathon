@@ -14,6 +14,7 @@ About your team
 
 
 About us
+=======
 
 We are a team of 2 interdiciplinary designers, with a major in graphic design, always trying to expand our bondaries.
 We like to design ideas that can generate real impact on peoples lifes.
